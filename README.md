@@ -1,5 +1,5 @@
 # Docker-bash
-[![Build Status](https://travis-ci.org/spy86/docker-bash.svg?branch=main)](https://travis-ci.org/spy86/docker-bash)
+[![Build-Docker-Image](https://github.com/spy86/docker-bash/actions/workflows/main.yml/badge.svg)](https://github.com/spy86/docker-bash/actions/workflows/main.yml)
 
 🐳 Simple docker container with bash.<br/>
 
